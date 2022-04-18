@@ -5,7 +5,6 @@ esx radial menu works under esx and will allow you to bring a dynamic interface 
 * by Nicoco#0001
 * support Discord https://discord.gg/fXYBhUUBVd
 
-
 [
 ]()
 
